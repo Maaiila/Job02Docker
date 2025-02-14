@@ -1,5 +1,5 @@
 ## Docker pub
-![docker pub](image/publicationimage.png)
+![docker pub](image/pubimage.png)
 Publier l'image sur docker
 
 ---
